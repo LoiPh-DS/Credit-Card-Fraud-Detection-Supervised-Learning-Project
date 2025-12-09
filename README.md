@@ -80,7 +80,3 @@ Credit Card Fraud Detection dataset from Kaggle (or synthetic data generated in 
 ## License
 
 This project is for educational purposes.
-
-## Contact
-
-[Your Email or GitHub Profile]
